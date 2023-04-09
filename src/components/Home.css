@@ -1,0 +1,45 @@
+.home__section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.quote__h1{
+    font-family: "Lexend";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    color: rgba(0,0,0,1s);
+}
+.quotes__card{
+       font-family: Lexend !important;
+       font-size: 37px;
+       font-weight: 400;
+       line-height: 65px;
+       letter-spacing: 0em;
+       text-align: left;
+       color: rgba(32,110,167,1);
+       margin-left: 90px;
+       margin-right: 90px;
+       margin-top: 90px;
+}
+.some__quotes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+.some__quotes>h4{
+    font-family: Lexend !important;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 170px;
+    width: 1200px;
+    border-radius: 0px;
+    
+}
