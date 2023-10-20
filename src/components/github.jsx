@@ -2,7 +2,7 @@ import React from 'react'
 
 const github = () => {
   return (
-    <div>github</div>
+    <div>github hai ye aur test kar rahe hai</div>
   )
 }
 
